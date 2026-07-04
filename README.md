@@ -31,4 +31,4 @@ Se o valor-p (*p-value*) calculado for menor que 0,05, rejeitamos $H_0$.
 
 ## 💻 Implementação em R
 
-O script abaixo utiliza a função nativa `prop.test` do R para realizar o teste de duas proporções com correção de continuidade de Yates por padrão.
+O script utiliza a função nativa `prop.test` do R para realizar o teste de duas proporções com correção de continuidade de Yates por padrão.
